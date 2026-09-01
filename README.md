@@ -3,3 +3,4 @@
 2. Ejecutar comando python run-main.py
 3. Revisar ejecución
 4. Terminar la clase
+5. Información agregada desde github
