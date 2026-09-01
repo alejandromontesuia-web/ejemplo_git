@@ -5,3 +5,4 @@
 4. Terminar la clase
 5. Información agregada desde github
 6. Trabajado con git + github 
+7. Trabajando con github automatizado
